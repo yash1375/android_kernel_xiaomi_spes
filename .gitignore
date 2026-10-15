@@ -44,7 +44,8 @@
 *.xz
 Module.symvers
 modules.builtin
-
+out
+arch/arm64/configs/vendor/spes_defconfig
 #
 # Top-level generic files
 #
